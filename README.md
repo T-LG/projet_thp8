@@ -2,4 +2,6 @@ The Hacking Project est une chouette formation, où la communauté est reine. Il
 
 IMPORTANT!
 
-bundle exec shotgun -p 4567
+SI VOUS POSSEDEZ RUBY 2.7.1
+
+MERCI D'EXECUTER "bundle exec shotgun -p 4567"
